@@ -1,0 +1,3 @@
+# 行尾/类型规范：shell 脚本一律 LF，发布包视为二进制
+*.sh text eol=lf
+*.zip binary
